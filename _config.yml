@@ -30,7 +30,7 @@ twitter_username: Ide3a1
 github_username:  ide3a
 
 # Build settings
-theme: modernist
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
